@@ -1,0 +1,13 @@
+.welcome {
+    text-align: center;
+    color: blue;
+}
+
+.menu {
+    text-align: center;
+}
+.two-menu {
+    text-align: center;
+    width: 100px;
+    height: 100px;
+}
